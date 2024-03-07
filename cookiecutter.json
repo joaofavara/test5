@@ -1,0 +1,14 @@
+{
+    "project_name": "learning-cookiecutter",
+    "_copy_without_render": [
+        "*.yml"
+    ],
+    "project_slug": "test5",
+    "project_short_description": "Default description",
+    "github_org": "joaofavara",
+    "sonnarcloud_org": "joaofavara",
+    "sonnarcloud_token": "",
+    "snyk_token": "",
+    "version": "1.0.0",
+    "open_source_license": ["MIT", "BSD", "ISCL", "Apache Software License 2.0", "Not open source"]
+}
